@@ -1,6 +1,6 @@
 # typesetting
-
-``` * {
+```
+* {
     box-sizing: border-box;
     outline: none;
   }
