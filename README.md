@@ -1,6 +1,6 @@
 # typesetting
 
-# * {
+``` * {
     box-sizing: border-box;
     outline: none;
   }
@@ -122,5 +122,5 @@
 
   nav a:hover {
     background-color:rgb(252, 213, 213);
-#  }
+  }
  
