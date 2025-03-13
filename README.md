@@ -77,6 +77,9 @@
     background-repeat: no-repeat;
     margin-left: 5px;
   }
+  ol {
+    list-style-type: lower-alpha;
+  }
 
   nav li {
     font-size: 30px;
